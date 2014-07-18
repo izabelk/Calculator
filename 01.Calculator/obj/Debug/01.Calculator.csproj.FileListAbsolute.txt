@@ -11,3 +11,6 @@ E:\Telerik\Homework\XAML\XAML_Basics\01.Calculator\obj\Debug\_01.Calculator.Prop
 E:\Telerik\Homework\XAML\XAML_Basics\01.Calculator\obj\Debug\01.Calculator.csproj.GenerateResource.Cache
 E:\Telerik\Homework\XAML\XAML_Basics\01.Calculator\obj\Debug\01.Calculator.exe
 E:\Telerik\Homework\XAML\XAML_Basics\01.Calculator\obj\Debug\01.Calculator.pdb
+D:\GitHubProjects\Calculator\01.Calculator\bin\Debug\01.Calculator.exe.config
+D:\GitHubProjects\Calculator\01.Calculator\obj\Debug\01.Calculator.exe
+D:\GitHubProjects\Calculator\01.Calculator\obj\Debug\01.Calculator.pdb
